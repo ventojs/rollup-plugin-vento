@@ -1,0 +1,21 @@
+{
+  "name": "rollup-plugin-vento",
+  "version": "0.1.0",
+  "author": {
+    "name": "Óscar Otero",
+    "url": "https://oscarotero.com"
+  },
+  "type": "module",
+  "keywords": [
+    "vento",
+    "rollup",
+    "rollup-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ventojs": "^0.12.5"
+  },
+  "devDependencies": {
+    "rollup": "^4.17.1"
+  }
+}
