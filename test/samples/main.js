@@ -1,4 +1,5 @@
 import template from "./template.vto";
 
-const result = template({ name: "Vento" });
-console.log(result);
+const result = await template({ name: "> Vento" });
+
+document.body.innerHTML = result.content;

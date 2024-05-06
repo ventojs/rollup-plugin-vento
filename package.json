@@ -5,6 +5,9 @@
     "name": "Óscar Otero",
     "url": "https://oscarotero.com"
   },
+  "scripts": {
+    "test": "node test/test.js"
+  },
   "type": "module",
   "keywords": [
     "vento",
